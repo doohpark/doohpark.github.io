@@ -1,7 +1,7 @@
 name: "Jekyll true minimal theme"
 description: "Lightweight theme"
 remote_theme: "mmistakes/minimal-mistakes"
-url: "https://userid.github.io"
+url: "https://doohpark1.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 
 markdown: kramdown
